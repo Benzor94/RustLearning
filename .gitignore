@@ -51,7 +51,7 @@ no_llvm_build
 /build-rust-analyzer/
 /dist/
 /unicode-downloads
-/target
+**/target
 /library/target
 /src/bootstrap/target
 /src/ci/citool/target
